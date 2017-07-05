@@ -5,7 +5,7 @@ This program is developed with the help of NCURSES library.
 # HOW TO RUN
 
 1. Debian/Ubuntu Linux
-  NCURSES library must be installed for running this program 
+  NCURSES library must be installed for running this program \n
   For installing follow the following steps:
     a.  Open the Terminal application.
     b.  Type the following apt-get command (without quotes) to install ncurses header and libs:

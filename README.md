@@ -1,5 +1,5 @@
 # 2048-Game
-A simple non GUI C++ implementation of the popular puzzle game 2048.
+A simple non GUI C++ implementation of the popular puzzle game 2048.<br/>
 This program is developed with the help of NCURSES library.
 
 # HOW TO RUN
